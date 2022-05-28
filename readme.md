@@ -1,11 +1,13 @@
 ### 2022 柿間企画POG
 
 #### ルール
+* 2023年クラシック世代
 * 2022/6/1～2023日本ダービーまで
 * 1～5着馬が対象
-* 
-* netkeibaID（無料）は全員取得済だと思いますので、以下のURLを参照してください。
-   * https://pog.netkeiba.com/?pid=tool_group&group_id=87707
+* 中央競馬競争のみを対象
+
+* netkeibaID（無料）を取得して、以下のURLを参照してください。
+   * https://pog.netkeiba.com/?pid=tool_group&group_id=90634
 
 グループパスワードは gasando です。
 
